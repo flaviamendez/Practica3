@@ -12,7 +12,7 @@ public class Principal {
      * @param args los argumentos de la línea de comandos
      */
     public static void main(String[] args) {
-        System.out.println("El número PI es " + Matematicas.piLambda(10000));
+        System.out.println("El número PI es " + Matematicas.piLambda(100000));
     }
 }
 
