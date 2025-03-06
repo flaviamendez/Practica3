@@ -32,9 +32,9 @@ Si deseas contribuir a este proyecto, siéntete libre de hacer un fork del repos
 Este proyecto fue creado por [Flavia Mendez ](https://github.com/flaviamendez/Practica3.git).
 Licencia Apache
 
-## Licensia
+## Licencia
 
 Versión 2.0, Enero de 2004 
-LICENSIA [LICENSE]
+LICENCIA [LICENSE]
 
 
